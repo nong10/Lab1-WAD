@@ -14,7 +14,17 @@ h2 {
     font-weight: lighter;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 .heading {
     color: greenyellow;
     text-align: left;
 }
+
+#validcss {
+  border:0;
+  width:88px;
+  height:31px  
+} 
